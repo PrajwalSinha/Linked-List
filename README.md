@@ -5,12 +5,15 @@ Welcome to my GitHub repository dedicated to learning and practicing Linked List
 ## Table of Contents
 
 ll1.cpp [Introduction](#introduction)
+
+
 ll2.cpp [Singly Linked List](#singly-linked-list)
         - [Definition](#definition)
         - [Implementation](#implementation)
         - [Searching](#searching)
-        - [Deletion](#deletion)
         - [Traversal](#traversal)
         - [Length](#length)
+
+ll3.cpp - [Deletion]-(#deletion)
 
 Feel free to customize it further based on your specific content and needs!

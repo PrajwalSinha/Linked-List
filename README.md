@@ -14,6 +14,6 @@ ll2.cpp [Singly Linked List](#singly-linked-list)
         - [Traversal](#traversal)
         - [Length](#length)
 
-ll3.cpp - [Deletion]-(#deletion)
+ll3.cpp - [Deletion]-(#deletion) and (#insertion)
 
 Feel free to customize it further based on your specific content and needs!
